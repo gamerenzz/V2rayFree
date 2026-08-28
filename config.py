@@ -19,8 +19,8 @@ newaddresses = [
     "https://t.me/s/meli_proxyy",
     "https://t.me/s/Daily_Configs",
     "https://t.me/s/customv2ray",
-    "https://t.me/s/i10VPN ",
-    "https://t.me/s/ShareCentrePro ",
+    "https://t.me/s/i10VPN",
+    "https://t.me/s/ShareCentrePro",
 
 
 ]
