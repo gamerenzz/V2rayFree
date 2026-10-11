@@ -1,4 +1,4 @@
-vless://27302727-9dfa-4975-990e-88c7a63747cd@199.34.228.77:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#🌐已更新于 10月11日 | 06:33 | 每15分钟更新一次
+vless://27302727-9dfa-4975-990e-88c7a63747cd@199.34.228.77:443?path=%2F&security=tls&encryption=none&insecure=0&host=hi-wg.pages.dev&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hi-wg.pages.dev#🌐已更新于 10月11日 | 09:16 | 每15分钟更新一次
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🌐服务器1 | 10月11日 | bin1site1.github.io
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🌐服务器2 | 10月11日 | bin1site1.github.io
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🌐服务器3 | 10月11日 | bin1site1.github.io
